@@ -1,0 +1,24 @@
+<h2>Lista de Recetas</h2>
+
+<input
+  type="text"
+  placeholder="Buscar receta por título..."
+  [(ngModel)]="searchTerm"
+  class="buscador"
+/>
+
+<div class="categorias">
+  <button
+    *ngFor="let categoria of categorias"
+    (click)="categoriaSeleccionada = categoria"
+    [class.activa]="categoria === categoriaSeleccionada"
+  >
+    {{ categoria }}
+  </button>
+</div>
+
+<ul>
+  <li *ngFor="let receta of recetasFiltradas">
+    <a [routerLink]="['/receta', receta.id]">{{ receta.title }}</a>
+  </li>
+</ul>

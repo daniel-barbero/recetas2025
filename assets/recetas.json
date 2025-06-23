@@ -1,0 +1,1260 @@
+[{
+    "id": "1",
+    "title": "Lentejas",
+    "ingredients": "lentejas, chorizo, cebolla, zanahorias, caldo carne ( 2 pastillas), tomate triturado, ajo, piment\u00f3n picante, laurel, variante: hueso garr\u00f3n (caldo verduras).",
+    "advices": "Sofre\u00edr cebolla y ajo mientras se cortan resto de ingredientes. A\u00f1adir zanahoria y tomate triturado con el piment\u00f3n, sal y pimienta. A\u00f1adir un vaso de agua para disolver pastillas de caldo. Echar 4 de agua por 1 de lentejas. 10 + 16 min a fuego medio despu\u00e9s que salga vapor",
+    "category": "cuchara",
+    "img": "IMG_20170327_231921.jpg",
+    "noteDani": "3",
+    "noteDolores": "3"
+},
+{
+    "id": "2",
+    "title": "Fabada",
+    "ingredients": "Habichuelas, compango, 1 cebolla grande, 2 dientes de ajo, 2 hojas de laurel, piment\u00f3n picante, 2 pastillas doble caldo.",
+    "advices": "Calentar el aceite con cebolla y ajo. Echar un vaso de agua. Llevar a ebullici\u00f3n con Morcilla, pastillas de caldo, sal, pimienta y laurel. Sacar la morcilla a los 5 min. Echar 4 de agua por 1 de habichuelas, chorizo, panceta y tapar 30 min. Dejar enfriar y sacar compango.\r\nVolver a tapar 30 min. Dar \u00faltimo toque con la morcilla",
+    "category": "cuchara",
+    "img": "PSX_20170216_101130.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "3",
+    "title": "Bacalao con espinacas",
+    "ingredients": "bacalao, espinacas, ajo, pasas, pi\u00f1ones",
+    "advices": "Ablandar las pasas con el agua caliente de las espinacas",
+    "category": "pescado",
+    "img": "IMG_20170322_204136.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "4",
+    "title": "Pimiento relleno de carne",
+    "ingredients": "Pimiento, carne picada, cebolla, bacon, calabac\u00edn",
+    "advices": "rellenar",
+    "category": "verdura",
+    "img": "pimientos_relleno.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "5",
+    "title": "Pimiento relleno de arroz",
+    "ingredients": "Pimiento, arroz, carne picada,cebolla,tomate frito, colorante alimentario, ajo picado, sal y pimienta.",
+    "advices": "Sofreir la cebolla picada. A\u00f1adir la carne picada y cuando esta este hecha, a\u00f1adir el arroz y sofreir un poco. A este sofrito poner un poquito de tomate frito y una pizca de colorante. Salpimentar. Rellenar los pimientos y cerrarlos con su propia tapa. Cubrir la fuente con papel de aluminio para crear una atm\u00f3sfera de vapor. Dejar en el horno a 250 al menos 1'30 horas. Observar y dejar q se sigan haciendo. Cuando veamos q el arroz est\u00e1 hecho, quitamos al aluminio y dejamos q se siga haciendo un poco m\u00e1s para q se tueste un poco el pimiento a gusto del comensal.",
+    "category": "verdura",
+    "img": "pimiento_arroz.jpg",
+    "noteDani": "4",
+    "noteDolores": "5"
+},
+{
+    "id": "20",
+    "title": "Tagliatelle con salm\u00f3n",
+    "ingredients": "Tallarines, salm\u00f3n, setas, vino blanco, cebolla, hierbabuena, nata",
+    "advices": "Sofre\u00edr cebolla. A\u00f1adir vino blanco y setas con fuego fuerte. A\u00f1adir salm\u00f3n y tras 20 segundos a\u00f1adir tallarines y nata. Sal y hierbabuena",
+    "category": "pasta",
+    "img": "IMG_20171213_150353.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "21",
+    "title": "Judias con at\u00fan y huevo",
+    "ingredients": "Jud\u00edas hervidas, 1 lata de at\u00fan, 3 huevos hervidos, aceite, ajo y sal.",
+    "advices": "Sofreir las jud\u00edas en el aceite con ajo",
+    "category": "verdura",
+    "img": "judias_atun.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "22",
+    "title": "Pollo a la coca-cola (Dani)",
+    "ingredients": "Por troceado, sopa de cebolla de sobre, 1 coca-cola, 1 pastilla de avecrem, 1 pimiento, 3 champi\u00f1ones.",
+    "advices": "Sofreir pimiento y carne juntos. Cuando ya tengan color echar los champi\u00f1ones en dados. Tras 2-3 minutos echar media lata de Coke y disolver media pastilla de caldo. Cuando llegue a ebullici\u00f3n echar el resto y sopa de sobre. Tras un golpe fuerte d calor, rebajar a fuego medio, 20   min. En caso de hacerlo al horno probar con 2 coca-cola",
+    "category": "carne",
+    "img": "IMG_20170506_163607.jpg",
+    "noteDani": "2",
+    "noteDolores": "4"
+},
+{
+    "id": "23",
+    "title": "Fajitas",
+    "ingredients": "Un pimiento rojo, Un pimiento verde, tiras de pechuga de pollo, cebolla (opcional), un sobre de especias para fajitas, tortitas.",
+    "advices": "Fre\u00edr primero las verduras. A\u00f1adir la pechuga de pollo. Cuando est\u00e9 casi a punto a\u00f1adimos las especias",
+    "category": "carne",
+    "img": "fajitas.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "24",
+    "title": "Filete de salm\u00f3n salvaje",
+    "ingredients": "Filete de salm\u00f3n salvaje, gambas, cebolla, tomate, zumo de lim\u00f3n, aceite, pimienta, sal, albahaca, perejil, pi\u00f1ones, almendra.",
+    "advices": "Hacer un adobo con el zumo de lim\u00f3n, pimienta, sal, albahaca, perejil y empapar bien el pescado. Picar la almendra y dorar. Sofreir verduras picadas. Marcar el pescado y cubrirlo con el sofrito.\r\n",
+    "category": "pescado",
+    "img": "PSX_20170210_180110.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "25",
+    "title": "Sopa de cebolla",
+    "ingredients": "6 cebollas, 4 dientes ajo, aceite, mantequilla, pimienta, harina, 3 pastillas caldo.",
+    "advices": "Mezclar aceite y dos cucharadas de mantequilla a fuego medio y pochar cebolla y ajo 25-30 min. Llevar a ebullicion, mezclar un poco de harina y a\u00f1adir 3 guindillas. A\u00f1adir 2 litros de agua (5 vasos grandes) y el caldo",
+    "category": "cuchara",
+    "img": "sopa_cebolla.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "26",
+    "title": "Lasa\u00f1a de espinacas y salmon",
+    "ingredients": "Espinacas,pasas,pi\u00f1ones,salm\u00f3n ahumado,placas de lasa\u00f1a, bechamel, queso rallado",
+    "advices": "Si utilizas placas de lasa\u00f1a f\u00e1cil, mejor hacer gran cantidad de bechamel para que est\u00e1s se hidraten y no quede dura. Salpimentar la bechamel. Queda mejor con salm\u00f3n ahumado pero tb se puede hacer con salm\u00f3n natural",
+    "category": "pasta",
+    "img": "IMG_20170325_151319.jpg",
+    "noteDani": "5",
+    "noteDolores": "4"
+},
+{
+    "id": "28",
+    "title": "Guisantes con jam\u00f3n ",
+    "ingredients": "Guisantes, tacos de jam\u00f3n, guindilla, huevo",
+    "advices": "Tambi\u00e9n se puede preparar con habas. Poner dos guindillas peque\u00f1as para dar toque picante. El huevo se puede hacer escalfado. Para descongelar los guisantes de forma r\u00e1pida si no se quieren hervir, se ponen en un tupper con un pel\u00edn de agua durante unos tres minutos y se descongelan. ",
+    "category": "verdura",
+    "img": "20170224_135950.jpg",
+    "noteDani": "2",
+    "noteDolores": "4"
+},
+{
+    "id": "29",
+    "title": "Coca de pimiento",
+    "ingredients": "Pimiento rojo, un bote de tomate triturado,   una lata de at\u00fan, huevo duro (opcional)",
+    "advices": "Para la masa dos medidas de cerveza y una de aceite. El aceite q no sea de oliva.Huevo duro opcional",
+    "category": "pasta",
+    "img": "20170302_134704.jpg",
+    "noteDani": "3",
+    "noteDolores": "3"
+},
+{
+    "id": "31",
+    "title": "Huevos al plato",
+    "ingredients": "Huevo, tomate frito, queso rallado, chorizo, champi\u00f1ones, jam\u00f3n, ....",
+    "advices": "",
+    "category": "carne",
+    "img": "20170228_134733.jpg",
+    "noteDani": "3",
+    "noteDolores": "3"
+},
+{
+    "id": "32",
+    "title": "Berenjena rellena",
+    "ingredients": "Berenjena, carne picada, cebolla, bacon, champi\u00f1ones, queso rallado.",
+    "advices": "Se puede cortar la berenjena por la mitad, haciendo cortes y con unas gotas de aceite meter en el microondas 10 min para poder vaciar.",
+    "category": "verdura",
+    "img": "IMG_20170301_221840.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "33",
+    "title": "Merluza al horno",
+    "ingredients": "Merluza en rodajas, gambas peladas, patatas, cebolla, ajo , pimienta, perejil, vaso de caldo de pescado, 2 guindillas.",
+    "advices": "Sofre\u00edr cebolla y ajo. A\u00f1adir las gambas peladas y tras unas vueltas a\u00f1adir el caldo de pescado. Calentar el horno con las patatas.  Cuando est\u00e9n hechas a\u00f1adir la merluza y el sofrito con el caldo. Espolvorear el perejil y un par de gotas de lim\u00f3n sobre la merluza.",
+    "category": "pescado",
+    "img": "IMG_20170301_214226.jpg",
+    "noteDani": "1",
+    "noteDolores": "SC"
+},
+{
+    "id": "34",
+    "title": "Pollo \/ Conejo a la mostaza",
+    "ingredients": "Pollo \/ conejo troceado, cebolla, ajo, 1 tomate maduro, almendras, nata l\u00edquida, sal, pimienta, mostaza dijo, perejil.",
+    "advices": "Sofre\u00edr ajo y cebolla y retirar. Dorar pollo salpimentado y retirar.  Sofre\u00edr el tomate en trozos. Echar un pu\u00f1ado de almendras picadas e ir a\u00f1adiendo la cebolla pochada antes. A fuego lento, a\u00f1adir la  nata y una cucharada sopera bien colmada de mostaza. Remover para mezclar bien y meter el pollo hasta reducir la salsa (20-25 min). Condimentar con perejil.",
+    "category": "carne",
+    "img": "IMG_20170313_212339.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "35",
+    "title": "Solomillo de cerdo a la pimienta",
+    "ingredients": "Solomillo, 1\/2 cebolla, 6 champi\u00f1ones, 1 tomate, nata, granos de pimienta verde, caldo carne.",
+    "advices": "Sellar carne por todos los lados. Picar cebolla, ajo, tomate y sofre\u00edr. A\u00f1adir caldo de carne y llevar a fuego fuerte con los champi\u00f1ones. A\u00f1adir nata y pimienta verde. A\u00f1adir pimienta en polvo. Subir fuego para reducir.",
+    "category": "carne",
+    "img": "IMG_20170408_153740.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "37",
+    "title": "Rollitos de calabac\u00edn con salm\u00f3n",
+    "ingredients": "Calabac\u00edn, salm\u00f3n ahumado, queso Philadelphia (opcional)",
+    "advices": "",
+    "category": "verdura",
+    "img": "rollitos_calabacin_salmon.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "38",
+    "title": "Caldereta de pescado",
+    "ingredients": "",
+    "advices": "Sofre\u00edr cebolla y ajo. Poner dos patatas troceadas a cocer en agua.A\u00f1adir calamar y almejas. A\u00f1adir tomate triturado fuego lento y 2 guindillas. A\u00f1adir medio vaso de vino blanco. Subir fuego a\u00f1adir pescado p sellar y echar un caso de caldo de pescado. A\u00f1adir patatas. Dejar a fuego lento. A\u00f1adir pimienta, perejil, almendra picada y piment\u00f3n. ",
+    "category": "pescado",
+    "img": "caldereta-de-pescados-y-mariscos.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "39",
+    "title": "Calabac\u00edn relleno",
+    "ingredients": "Calabac\u00edn, champi\u00f1ones, 1 cebolla, 3 zanahorias, 2 dientes de ajo, bacon, medio vaso de leche.",
+    "advices": "Pochar calabac\u00edn en el microondas. Sofre\u00edr relleno con todos los ingredientes cortados. Vaciar calabac\u00edn y a\u00f1adir al sofrito..Subir el fuego, a\u00f1adir medio vaso de leche, pimienta y or\u00e9gano",
+    "category": "verdura",
+    "img": "IMG_20170424_214956.jpg",
+    "noteDani": "1",
+    "noteDolores": "SC"
+},
+{
+    "id": "40",
+    "title": "Pizza casera",
+    "ingredients": "Harina, aceite, levadura.",
+    "advices": "",
+    "category": "pasta",
+    "img": "pizza.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "41",
+    "title": "Gazpacho manchego",
+    "ingredients": "Pasta de gazpacho, pebrella, carne ( conejo, pollo, costilla ), pimineto rojo, champi\u00f1ones, cebolla, tomate triturado",
+    "advices": "Dorar la carne salpimentada. Pasar a un cazo con agua y mucha pebrella para hacer caldo (a\u00f1adir 1 pastilla). Sofre\u00edr todas las verduras. Sofre\u00edr tomate y a\u00f1adir la pasta. Se puede a\u00f1adir 1-2 guindillas.",
+    "category": "cuchara",
+    "img": "IMG_20170513_142549.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "43",
+    "title": "Cusc\u00fas con verduras",
+    "ingredients": "Menestra verduras, medio pimiento rojo, 1 cebolla. 2 pastillas caldo pollo.",
+    "advices": "Sofre\u00edr pimiento y cebolla. A\u00f1adir verduras. Salpimentar. Calentar agua con caldo y antes de hervir retirar del fuego y echar cuscus (rel 1-1). Dejar reposar y mezclar con verdura, desgranando con chorro de aceite. A\u00f1adir curry, albahaca y perejil.",
+    "category": "pasta",
+    "img": "20190513_141620.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "44",
+    "title": "Merluza con manzana y pasas ",
+    "ingredients": "Merluza, 1 cebolla, 1 manzana, 1 pu\u00f1ado de pasas, 1 tomate, taquitos de jam\u00f3n, 1 cucharada de piment\u00f3n ",
+    "advices": "Sofre\u00edr la cebolla junto con la manzana y las pasas. A\u00f1adir tomate y jam\u00f3n. \r\nEnharinar la merluza y freir.\r\nCuando ya est\u00e9 casi al punto, a\u00f1adir la cucharada de piment\u00f3n. ",
+    "category": "pescado",
+    "img": "IMG_20171211_215311.jpg",
+    "noteDani": "3",
+    "noteDolores": "4"
+},
+{
+    "id": "45",
+    "title": "Hummus",
+    "ingredients": "Bote de garbanzos, 3 cucharaditas ajonjol\u00ed, media de comino, 1 lim\u00f3n,",
+    "advices": "",
+    "category": "verduras",
+    "img": "IMG-20170628-WA0055.jpeg",
+    "noteDani": "1",
+    "noteDolores": "SC"
+},
+{
+    "id": "46",
+    "title": "Pollo almendrado con d\u00e1tiles",
+    "ingredients": "Pollo,cebolla\r\najo,\r\ntomate frito,\r\nalmendras,\r\nsal,\r\npimienta,\r\nperejil.",
+    "advices": "Sofre\u00edr en aceite abundante ajo y cebolla. A\u00f1adir pollo salpimentado y dorar. A\u00f1adir cuchara sopera de tomate frito.\r\nEchar el picado de almendras y d\u00e1tiles y apartar en un 1 minuto.\r\nCondimentar con perejil.Variante: A\u00f1adir vino blancontras sofreir. hacer una masa con los d\u00e1tiles y a\u00f1adir tomate natural trituradonpara salsa",
+    "category": "carne",
+    "img": "IMG_20170725_195613.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "47",
+    "title": "Gazpacho de sand\u00eda ",
+    "ingredients": "500 gramos de sand\u00eda, 500 gramos de tomates maduros (5 tomates peque\u00f1os maduros), medio pimiento rojo, un cuarto de cebolla, un pepino peque\u00f1o, 5 cucharadas soperas de aceite,  3 cucharadas soperas de vinagre de manzana, una cucharada de sal",
+    "advices": "500 gr de sand\u00eda y 500 gr. de tomates maduros. Medio pimiento, 1\/4 de cebolla y pepino peque\u00f1o",
+    "category": "verdura",
+    "img": "IMG_20180728_143231.jpg",
+    "noteDani": "3",
+    "noteDolores": "4"
+},
+{
+    "id": "48",
+    "title": "Jud\u00edas verdes con tomate",
+    "ingredients": "Jud\u00edas verdes planas, una cucharada de az\u00facar, aceite, tomate triturado, cebolla, jam\u00f3n en tacos,un dado de caldo de pollo",
+    "advices": "Sofre\u00edr el tomate y la cebolla. A\u00f1adir una cucharada de az\u00facar y la pastilla de caldo de pollo deshecha. A\u00f1adir las jud\u00edas y dejar cocer durante 30 minutos. Si hace falta a\u00f1adir un poco de agua. 5 minutos antes de terminar a\u00f1adir los tacos de jam\u00f3n",
+    "category": "verdura",
+    "img": "judias-verdes-con-tomate.jpg",
+    "noteDani": "SC",
+    "noteDolores": "3"
+},
+{
+    "id": "49",
+    "title": "Solomillo de cerdo con patatas al horno",
+    "ingredients": "Solomillo de cerdo, bacon, cebolla, pastilla caldo carne, vino blanco, patatas",
+    "advices": "Cortar el solomillo por la mitad, restregar media pastilla de carne y meter lonchas de bacon por la mitad. Sofre\u00edr cebolla y manzana con vino blanco y media pastilla de carne. Triturar todo. Calentar horno con las patatas y meter solomillo.",
+    "category": "carne",
+    "img": "IMG_20170930_153200.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "50",
+    "title": "Magro con tomate",
+    "ingredients": "1 kg de magro, 800 gr. tomate triturado, cebolla, pimiento verde, laurel, azucar, sal, pimienta, vino blanco",
+    "advices": "1 kg magro, 800 gr tomate.Sellar carne. Retirar y sofre\u00edr pimiento y cebolla. Subir fuego echar vino, laurel y la carne. A\u00f1adir el tomate con una cucharada de az\u00facar a fuego lento 1h",
+    "category": "carne",
+    "img": "magro_tomate.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "52",
+    "title": "Tartar de salm\u00f3n ahumado",
+    "ingredients": "Salm\u00f3n ahumado, cebolleta, aguacate, tomate, albahaca, soja, lim\u00f3n",
+    "advices": "",
+    "category": "pescado",
+    "img": "tartar-de-salmon-y-aguacate.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "53",
+    "title": "Fideua ",
+    "ingredients": " Gambon, cebolla, tomate , ajo, piment\u00f3n, colorante,Fideo gordo,Caldo paella Gallina Blanca,Preparado paella (calamar, chirla, mejill\u00f3n y gamba),8-12 chopitos",
+    "advices": "Sofreir 1 cebolla dulce y dos ajos picados.Echar el preparado de paella con fuego bajo.A\u00f1adir medio bote tomate triturado y sofreir.  A\u00f1adir el Fideo y darle dos vueltas.Para la pizza-pan poner tres tazas de fideos. Dos medidas de agua por una de fideo y al total a\u00f1adir una m\u00e1s. A continuaci\u00f3n a\u00f1adir el caldo con el colorante y el piment\u00f3n.A\u00f1adir el gamb\u00f3n",
+    "category": "pasta",
+    "img": "20171126_153522.jpg",
+    "noteDani": "4",
+    "noteDolores": "4"
+},
+{
+    "id": "54",
+    "title": "Ensalada de alga y aguacate",
+    "ingredients": "Alga seca, aguacate, tomates mini kumato, pepinillos, perlas de manzana, soja",
+    "advices": "Sobre el lecho de alga poner los taquitos de tomate y aguacate. Picar un pepinillo por servicio. Decorar con las perlas y aderezar con soja. Variante: suced\u00e1neo de Xavier y mermelada de manzana.",
+    "category": "verdura",
+    "img": "IMG_20180225_142315.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "55",
+    "title": "Gambas ajillo",
+    "ingredients": "Gamba pelada, calamar, semola, guindilla.",
+    "advices": "Sofre\u00edr todo con la guindilla. Cuando este hecho a\u00f1adir la semola p tostarla.",
+    "category": "pescado",
+    "img": "gambas-ajillo.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "56",
+    "title": "Crema de zanahoria y tomate",
+    "ingredients": "6 zanahorias, 2 tomates medianos, 1 cebolleta mediana, caldo carne\/verduras, curry, ajo",
+    "advices": "Sofre\u00edr cebolla y ajo. Echar curry y tostar. A\u00f1adir el tomate y la zanahoria. A\u00f1adir un vaso de caldo y cocer a fuego medio 30 min. Salpimentar bien y triturar .",
+    "category": "verdura",
+    "img": "IMG_20180123_221453.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "58",
+    "title": "Crema de champi\u00f1ones",
+    "ingredients": "",
+    "advices": "Derretir la mantequilla y sofreir cebolla y champi\u00f1ones picados.Agregar harina y un poco de caldo, removiendo hasta hervir.echar el resto de caldo y cocer 30 min.A\u00f1adir 1\/4 de leche y  batir todo.Ligar yemas de huevo con nata, agregar a la crema caliente removiendo.Saltear champi\u00f1ones para presentar",
+    "category": "verdura",
+    "img": "crema-campi.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "59",
+    "title": "Crema de puerros",
+    "ingredients": "4 puerros, 1 cebolla mediana, 1 patata grande, 1 vaso grande de leche, 1 vaso grande de agua, chorro de nata l\u00edquida",
+    "advices": "1 vaso grande de leche y de agua, y a\u00f1adir chorro de nata",
+    "category": "verdura",
+    "img": "IMG_20180315_223157.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "61",
+    "title": "Musaka",
+    "ingredients": "1 kg berenjena, 1\/2 kg carne picada vacuno, 3 tomates, 2 cebollas, 4 dientes de ajo, queso rallado, canela, perejil, menta, sal, pimienta, vino blanco, bechamel",
+    "advices": "Sofre\u00edr cebolla y ajo cortados muy finos. Escaldar tomates, pelar la piel y cortar en dados grandes. A\u00f1adir al sofrito. Meter la carne salpimentada y remover durante 2 minutos. Poner una cucharadita de canela, chorrito de vino blabco, perejil y pizca de menta. Fuego medio 20-25 min. Hacer la bechamel.. Dejar en papel absorbente.\r\nMontar con base de aceite, l\u00e1minas de berenjena, relleno de carne y culminar con queso rallado.Para Berenjena ver Musaka mejorada",
+    "category": "verdura",
+    "img": "IMG_20171217_151351.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "62",
+    "title": "Arroz negro",
+    "ingredients": "Arroz, calamar, bolsa fritura, 1 cebolla, 2 dientes de ajo, Medio tomate triturado, 1 bolsa de tinta por raci\u00f3n (4)",
+    "advices": "Sofre\u00edr ajo y cebolla. Sofre\u00edr pescado.Echar tomate frito mercadona y sofreir el arroz.A\u00f1adir el caldo caliente.2 tazas de arroz y 6 de caldo",
+    "category": "pasta",
+    "img": "IMG_20180114_151710.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "63",
+    "title": "Albondigas de carne",
+    "ingredients": "Albondigas \r\n500 gramos de carne de ternera con cerdo,2 huevos, 125 ml de leche, 200 g de pan rallado, queso rallado, sal y pimienta, perejil ",
+    "advices": "1\/2 kg carne picada, 125 ml leche, 200gr pan rallado.A\u00f1adir el pan rallado en dos tandas.\r\nPasar por harina las bolas de carne y sofreir",
+    "category": "carne",
+    "img": "20180313_212731.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "64",
+    "title": "Calabacin con at\u00fan",
+    "ingredients": "calabacin, at\u00fan, media cebolla,1 diente de ajo, tomate frito",
+    "advices": "",
+    "category": "verdura",
+    "img": "calabacin-relleno-receta.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "65",
+    "title": "Guacamole",
+    "ingredients": "2 aguacates, 1 tomate maduro, 1 cebolla, 1 ajo, zumo de 1\/lim\u00f3n  o lima, 1 jalape\u00f1o, sal",
+    "advices": "Zumo de medio lim\u00f3n o lima",
+    "category": "verdura",
+    "img": "guacamole.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "66",
+    "title": "Quiche de calabacin ",
+    "ingredients": "Un calabacin, un ajo puerro o una cebolla, tacos de jam\u00f3n o York o Bacon, 200ml de nata, 3 huevos, masa quebrada, queso rallado, sal y pimienta ",
+    "advices": "Poner la masa en el horno pinchando con un tenedor y con legumbres para que no suba 10 minutos a 180\/200. Hacer el sofrito y salpimentar.En un bol batir los huevos con la nata (200 ml) y despu\u00e9s a\u00f1adir el sofrito. Poner el relleno en la masa y a\u00f1adir queso rallado. Meter en el horno hasta que est\u00e9 dorado.Se puede usar tacos de jam\u00f3n york o bacon",
+    "category": "verdura",
+    "img": "20180522_211346.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "67",
+    "title": "Dorada al horno",
+    "ingredients": "Dorada, patatas, cebolla, ajo, ",
+    "advices": "Cortar la patata, ajo y cebolla finas a rodajas. Poner sobre papel de cocina y sazonar con sal, pimienta, tomillo y romero, chorro de aceite y meter al horno 10 minutos. Disolver una pastilla caldo de pescado en 1\/4 vaso de agua, chorrito de vino blanco y medio lim\u00f3n. Meter doradas en el horno y echar la mezcla por encima, con chorrito de aceite. 20 minutos.",
+    "category": "pescado",
+    "img": "dorada.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "68",
+    "title": "T\u00e0rtar de gambas",
+    "ingredients": "Gambas, tomate seco en aceite, cebolla, sesamo, cebollino,",
+    "advices": "Triturar todos los ingredientes. Hacer una vinagreta con soja, cebollino, aceite y el sesamo ",
+    "category": "pescado",
+    "img": "PSX_20180706_235844~3.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "69",
+    "title": "Tartaletas de jam\u00f3n y angulas",
+    "ingredients": "Jam\u00f3n serrano, angulas, huevo, nata, queso rallado",
+    "advices": "Forrar el molde con el jam\u00f3n serrano. Fre\u00edr el suced\u00e1neo de angulas con ajo y cayena. Batir el huevo con nata y pizca de sal. Rellenar el molde con angulas y la crema y coronar con queso rallado",
+    "category": "carne",
+    "img": "IMG-20180706-WA0013.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "71",
+    "title": "Crema de aguacate",
+    "ingredients": "2 Aguacate, 1 cebolla, 1 calabac\u00edn, 1 yogur griego natural, caldo verdura, sal, pimienta y aceite. ",
+    "advices": "Triturar aguacate. Sofre\u00edr cebolla y calabac\u00edn. Triturar con medio vaso de caldo verdura. Mezclar con yogur. Sal pimienta. Poner cayena triturada para servir. Se puede a\u00f1adir soja a la mezcla",
+    "category": "verdura",
+    "img": "IMG_20180725_214704.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "72",
+    "title": "Champi\u00f1ones rellenos",
+    "ingredients": "Champi\u00f1ones grandes, bacon, cebolla, nata, pimienta, queso rallado",
+    "advices": "Sofre\u00edr cebolla y bacon. Hacer carbonara con nata. Rellenar champi\u00f1ones y coronar con queso.",
+    "category": "verdura",
+    "img": "PSX_20180806_150502.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "73",
+    "title": "Saquitos de morcilla",
+    "ingredients": "Pasta filo, crema morcilla, pi\u00f1ones",
+    "advices": "Mojar pasta filo con agua. Rellenar con morcilla con pi\u00f1ones.",
+    "category": "carne",
+    "img": "PSX_20180806_150502.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "74",
+    "title": "Pastel de puerros y champi\u00f1ones",
+    "ingredients": "3 puerros, 3-4 champi\u00f1ones grandes, 8 palitos surimi, 1 anguri\u00f1as, 4-5 huevos, 1 cebolla peque\u00f1a, 1 diente de ajo, 100 gr. pimientos piquillos, leche evaporada, 1 cucharada maicena, sal, pimienta, perejil",
+    "advices": "Sofreir 15 min. puerros y champi\u00f1ones cortados y salpimentados. A\u00f1adir surimi cortado y anguri\u00f1as en los \u00faltimos 2 min. Mezclar huevos, maicena, 250ml leche evaporada, sal, pimienta y perejil. Forrar molde con papel de horno, extender sofrito y cubrir con la mezcla. Meter al horno 20-30 min. Sofre\u00edr ajo y cebolla, cdo est\u00e9 transparente a\u00f1adir pimientos. Triturar todo con 100 ml de leche evaporada.",
+    "category": "verdura",
+    "img": "IMG_20180906_202318.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "75",
+    "title": "Pastel de patata y merluza",
+    "ingredients": "4 Patatas, 3 zanahorias, 1 kg de merluza, 1 puerro, 2 ajos, pimientos piquillo, vino blanco",
+    "advices": "Hervir patata y zanahoria peladas. Hacer pur\u00e9, con sal, mantequilla, pimienta. Se puede rebajar con leche. Sofre\u00edr puerro y ajo. A\u00f1adir merluza y vino blanco subiendo el fuego. A\u00f1adir pimiento para solo saltear. Embadurnar con mantequilla el recipiente, poner capa de pur\u00e9, encima sofrito y cubrir con pur\u00e9. Poner pan rallado encima y poner grill al horno.",
+    "category": "pescado",
+    "img": "pastel-patata-merluza.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "76",
+    "title": "Canelones rellenos de mejillones y gambas",
+    "ingredients": "Media bolsa de gambas, una bolsa de mejillones, media cebolla, un huevo, leche, harina, aceite, sal, nuez moscada",
+    "advices": "Media bolsa de gambas y una entera de mejillones, media cebolla.Para el relleno; sofre\u00edr por un lado la cebolla con los mejillones y las gambas picadas.\r\nHacer una poca bechamel con dos cucharadas de aceite , una de harina y una taza de caf\u00e9 grande de leche (sal y nuez moscada). Cuando est\u00e9 a\u00f1adir al sofrito junto con un huevo batido.\r\nPara la bechamel: seis cucharadas de aceite y tres de harina junto con tres tazas de caf\u00e9  de leche",
+    "category": "pescado",
+    "img": "canelones.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "77",
+    "title": "Arroz al horno",
+    "ingredients": "",
+    "advices": "Poner 2 tazas de arroz y 3 de caldo",
+    "category": "pasta",
+    "img": "10_1_2019_cafmih.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "78",
+    "title": "Merluza al vino blanco",
+    "ingredients": "Filetes merluza,Anguri\u00f1as,Almejas,Vino blanco,Perejil,Cayena,Ajo",
+    "advices": "Sofreir ajo y cayena.Echar anguri\u00f1as y almejas y saltear durante 3 min.Retirar mezcla. A\u00f1adir vino blanco y subir fuego para evaporar alcohol.A\u00f1adir merluza por la parte de la piel.Tras 3-4min tapar y dejar a fuego lento para q se termine al vapor",
+    "category": "pescado",
+    "img": "28_1_2019_qzotxhrf.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "79",
+    "title": "Empanada",
+    "ingredients": "2 huevos,250 gr de harina,50 gr de mantequilla ,Sal,1 sobre de levadura,Agua",
+    "advices": "250 gr de harina, 50 gr de mantequilla, 1 sobre de levadura.Derretir la mantequilla para a\u00f1adirla.A\u00f1adir el agua poco a poco hasta que sea suficiente .Dejar reposar la masa al menos media hora.40 minutos en el horno a 180 grados",
+    "category": "verdura",
+    "img": "29_4_2019_vuoltqi.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "80",
+    "title": "Lentejas con sepia y gamb\u00f3n",
+    "ingredients": "Lentejas,Caldo de pescado,4-6 gambones,Calabaza,Apio,1 puerro,Alga Nori,Salsa Perrins,Piment\u00f3n",
+    "advices": "Dejar las lentejas a remojo el dia anterior.Sofreir puerro. A\u00f1adir las cabezas de los gambones, chaf\u00e1ndolas para sacar jugo..Sacar las cabezas y a\u00f1adir al caldo..Sofreir resto de verduras (cabe tambi\u00e9n pimiento y tomate triturado).Echar piment\u00f3n picante y salsa perrins al gusto.A\u00f1adir  las lentejas y el caldo colado.Subir el fuego para reducir caldo. En el \u00faltimo momento echar el alga cortada a tiras y los gambones pelados.",
+    "category": "cuchara",
+    "img": "30_5_2019_ykrnnnju.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "81",
+    "title": "Secreto",
+    "ingredients": "Secreto de cerdo,Lim\u00f3n\/ Lima,Vino blanco,Pimienta,Piment\u00f3n ,Miel,Or\u00e9gano ,Perejil ",
+    "advices": "Hacer cortes en la carne y dejar macerar con todos los ingredientes.Pintar con miel y hacer a la plancha",
+    "category": "carne",
+    "img": "2_7_2019_zbpyvs.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "82",
+    "title": "Patatas con sepia al azafr\u00e1n",
+    "ingredients": "Patatas ",
+    "advices": "Sofreir cebolla y pimiento.A\u00f1adir vino blanco y evaporar alcohol. A\u00f1adir despu\u00e9s el tomate triturado y el laurel.Pelar y cascar patatas y a\u00f1adir a la cazuela.Cortar la sepia en trozos y a\u00f1adir.A\u00f1adir el caldo con el laurel.A\u00f1adir caldo de pescado.Pon a punto de sal, tapa y cuece todo durante 30 minutos.espolvorear con perejil picado.Antes de servir a\u00f1adir las gambas y mejillones",
+    "category": "pescado",
+    "img": "24_8_2019_jlmwqccc.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "83",
+    "title": "Espinacas con brocoli",
+    "ingredients": "Hggh",
+    "advices": "",
+    "category": "verdura",
+    "img": "24_8_2019_xqbudbge.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "84",
+    "title": "Garbanzos con bacalao",
+    "ingredients": "Garbanzos cocidos,Bacalao desmigado,Cebolla ,Ajo,Piment\u00f3n ,Comino,Laurel,Huevos cocidos,Puerro,1\/2 Pimiento,3 zanahorias",
+    "advices": "Sofreir ajo, cebolla, puerro, pimiento, zanahoria y tomate en trozos.Pasar por pasapur\u00e9.A\u00f1adir garbanzos y bacalao.A\u00f1adir huevo picado p servir.Sofreir ajo, cebolla, puerro, 1\/2 pimiento, zanahorias y tomate en trozos",
+    "category": "pescado",
+    "img": "26_8_2019_xooeafgl.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "86",
+    "title": "Rabo de toro cordob\u00e9s ",
+    "ingredients": "Rabo de ternera,1 pimiento rojo,3 dientes de ajo,1 cebolla,1 puerro,3 zanahorias ,3 tomates triturados,3 clavo,Pimienta en grano,300 ml caldo carne,400 ml vino,1 \u00f1ora",
+    "advices": "Salpimentar y enharinar el rabo y sofreir.Se puede usar \u00f1ora o pimiento choricero.Reservar la carne y sofreir en ese aceite ajo, cebolla y pimiento .A\u00f1adir el tomate triturado.Incorporar la carne y a\u00f1adir el vino. Subir el fugo para quitar el alcohol 2min.A\u00f1adir el caldo de carne.Cerrar la olla y dejar con presion durante 25 min.  Dejar enfriar la olla.1 botella vino fidencio crianza y 500 ml caldo",
+    "category": "carne",
+    "img": "7_4_2020_tgkreu.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "87",
+    "title": "Calamares rellenos",
+    "ingredients": "Calamares grandes",
+    "advices": "Usar calamares grandes.Limpiar los calamares",
+    "category": "pescado",
+    "img": "22_12_2019_tiouzwo.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "88",
+    "title": "Mejillones en escabeche",
+    "ingredients": "Mejillones,2 Ajos,Cebolla,Zanahoria,Chalota o puerro,Jamon taquitos,Vinagre,Vino blanco,Piment\u00f3n",
+    "advices": "Sofreir los ajos.A\u00f1adir verduras y pochar.A\u00f1adir vinagre y vino blanco y dejar reducir.A\u00f1adir agua y dejar a fuego lento.Cocer los mejillones.Triturar verduras. Se puede a\u00f1adir caldo colado de los mejillones para hacer la salsa m\u00e1s liquida.Calentar aceite y retirando del fuego echar pimenton picante. A\u00f1adir pir encima de la otra salsa",
+    "category": "pescado",
+    "img": "1_1_2020_tcwfxjeq.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "89",
+    "title": "Magret de pato con salsa de naranja",
+    "ingredients": "Magret de pato,Cebolla,Puerro,Zanahoria,Naranja,Soja,Miel,Vinagre m\u00f3dena",
+    "advices": "Sofreir verduras cortadas a daditos.Calentar el zumo de 1 naranja, ralladura de la piel, 50ml de soja, un chorro de vinagre m\u00f3dena y una cucharada sopera de maicena.Endulzar la salsa con mermelada de naranja o miel en su defecto.Cortar en rombos por la grasa el magret.Poner a fuego medio\/alto durante 3\/4 min por mabos lafos, empezando por la piel.Trinchar en filetitos sobre la verdura al presentar el plato",
+    "category": "carne",
+    "img": "1_1_2020_zbyvrtdy.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "90",
+    "title": "Atun al s\u00e9samo con salsa Ponzu",
+    "ingredients": "Atun,50 ml aceite s\u00e9samo ,Hierbas provenzales,Cebollino,50 ml zumo naranja,100 ml salsa soja,Alga kombu o wakame",
+    "advices": "Cortar el atun en daditos. Marinar en aceite.Llevar el zumo de naranja a ebullici\u00f3n y a\u00f1adir la soja y el mirin.Retirar del fuego y a\u00f1adir el alga.Saltear el atun escurrido 1 minuto.Repartir el atun en cucharitas y cubrir con la salsa.Servir con cebollino picado",
+    "category": "pescado",
+    "img": "1_1_2020_vmpqxqji.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "91",
+    "title": "Brochetas de pollo Satay",
+    "ingredients": "Pechuga de pollo,Lim\u00f3n ,Curry,S\u00e9samo ,150ml soja,Jengibre molido,Sal de ajo",
+    "advices": "Hacer la salsa removiendo todos los ingredientes.Cortar la pechuga en dados y marinar durante 1 h en la nevera.Formar las brochetas y dorar en fuego medio-bajo",
+    "category": "carne",
+    "img": "1_1_2020_pouwcpb.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "92",
+    "title": "Atun encebollado",
+    "ingredients": "Atun,Cebolla,Vino blanco",
+    "advices": "Pochar cebolla.sellar el at\u00fan .A\u00f1adir media copa de vino y evaporar el alcohol.A\u00f1adir 150ml de fumet de pescado, el or\u00e9gano y piment\u00f3n",
+    "category": "pescado",
+    "img": "atun-encebollado.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "93",
+    "title": "Pollo relleno",
+    "ingredients": "Pollo deshuesado",
+    "advices": "",
+    "category": "carne",
+    "img": "11_1_2020_qwlbfmfz.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "94",
+    "title": "Merluza en salsa verde",
+    "ingredients": "1\/2 Cebolla,4 ajos,Vino blanco,Harina,Gambas,Almejas,Filetes merluza grandes",
+    "advices": "Sofreir cebolla y ajos juntos.Antes de que se dore echar chorro vino blanco y subir fuego para evaporar alcohol.Bajar fuego y a\u00f1adir harina para espesar.A\u00f1adir caldo de pescado (harina si hace falta).A\u00f1adir perejil en cantidad .Meter gambas y almejas.Cocer merluza por la piel",
+    "category": "pescado",
+    "img": "merluza-salsa-verde.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "95",
+    "title": "Brownie Nestl\u00e9",
+    "ingredients": "1 tableta de chocolate postres,3 huevos L,250 gr az\u00facar,150 gr harina,250 gr mantequilla",
+    "advices": "Al horno 30 minutos a 150\u00b0.Truco: dejar unas pocas onzas sin fundir para introducirlo al final del proceso.250 gr de az\u00facar, 250 gr mantequilla. 100 gr de harina.1 tableta de chocolate para postres.3 huevos tama\u00f1o L.Si se hace con aceite, 80ml de aceite ",
+    "category": "dulce",
+    "img": "26_3_2020_olfnidai.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "98",
+    "title": "Bacalao con salsa holandesa",
+    "ingredients": " ",
+    "advices": "Para la salmuera; poner el pescado a remojo en 500ml agua y 15 gr de sal .Para la salsa holandesa;  200 gr de mantequilla, 3 yemas de huevo, 1 cucharada de lim\u00f3n, 1 cucharada de vino blanco, sal y pimienta..1\u00b0 introducir el bacalao en la salmuera con agua  fria en la nevera.2\u00b0  En un cazo peque\u00f1o funde la mantequilla a fuego medio. Separa y bate las yemas. Vete mezcl\u00e1ndolas poco a poco con la mantequilla. A\u00f1ade el vino y el lim\u00f3n. Reserva..3\u00b0 En una sart\u00e9n fr\u00ede las tiras de jam\u00f3n por los dos lados y s\u00e1calas a una fuente para horno. En la misma sart\u00e9n, fr\u00ede los lomos de bacalao por la parte de arriba unos 3-4 minutos. Dales la vuelta y repite el proceso..4\u00b0 Coloca los lomos de bacalao encima de las lonchas de jam\u00f3n y napa cada uno con una cucharada de salsa holandesa. Gratina al horno 1 minuto a 280\u00baC.",
+    "category": "pescado",
+    "img": "31_3_2020_duptjbiu.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "99",
+    "title": "Musaka mejorada",
+    "ingredients": " ",
+    "advices": "1\u00b0 Cortar las berenjenas, salar y dejar que saquen el agua.2\u00b0 secar las berenjenas por ambos lados y meter al horno con un buen chorro de aceite y asar ..3\u00b0 fre\u00edmos la cebolla y el ajo, salpimentamos y a\u00f1adimos la carne. Sofre\u00edmos y a\u00f1adimos el tomillo y el tomate. Mareamos bien y con el fuego medio tapamos y dejamos unos 20 minutos friendo. Seguidamente a\u00f1adimos el vino y dejamos unos 10 minutos m\u00e1s, esta vez con la sart\u00e9n destapada. Hasta que se nos haya absorbido todo el l\u00edquido..4\u00b0 Una vez tenemos la carne, apartamos del fuego y a\u00f1adimos un huevo batido mezclando bien para que quede todo bien integrado y la salsa nos quede unida. .5\u00b0 Precalentar el horno a 160\u00ba  A continuaci\u00f3n colocamos  la primera capa de berenjena y despu\u00e9s una capa de la salsa de carne, repartimos y aplastamos con el dorso de una cuchara y repetimos esta operaci\u00f3n: capa de berenjenas y capa de carne. As\u00ed hasta acabar con ellas.   Cubrimos con la salsa bechamel y espolvoreamos con queso rallado,. Metemos la fuente en el horno durante unos 15-20 minutos. Transcurrido ese tiempo subimos la temperatura del horno a 200\u00ba para acabar con el gratinado durante unos 3-4 minutos..Nota: el tomate es natural y picarlo",
+    "category": "verdura",
+    "img": "31_3_2020_ahjfazge.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "100",
+    "title": "Caballa al piment\u00f3n",
+    "ingredients": " ",
+    "advices": ".Ponemos la caballa limpia abierta por la mitad y sin espina,en el mortero picamos los ajos,la pimienta,el piment\u00f3n,echamos el aceite y removemos,untamos esa mezcla con una brocha a la caballa,dejamos 20 minutos y metemos al horno a 200 grados durante 20 minutos y listo para comer.",
+    "category": "pescado",
+    "img": "7_4_2020_utbsvuk.jpg",
+    "noteDani": "4",
+    "noteDolores": "3"
+},
+{
+    "id": "101",
+    "title": "Patatas deluxe",
+    "ingredients": " ",
+    "advices": ". Para facilitar la mezcla de especias yo meto las patatas en una bolsa de pl\u00e1stico, a\u00f1ado las hierbas, especias y aceite, y ah\u00ed mezclo todo sin manchar ning\u00fan recipiente..Todos los ingredientes se utilzan en polvo, cebolla, ajo.......cocinarlas en una bandeja apta para microondas, tapada con papel film, durante 9 o 10 minutos al microondas (dependiendo del tama\u00f1o y cantidad de patatas caj\u00fan). El papel film har\u00e1 que las patatas se cocinen en su propio vapor.Si las prefer\u00eds todav\u00eda m\u00e1s crujientes, pod\u00e9is hacerlas al horno unos 30 minutos a 200\u00baC aprox. ",
+    "category": "verdura",
+    "img": "7_4_2020_lbxpuvza.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "102",
+    "title": "Crema de calabac\u00edn y puerro",
+    "ingredients": " ",
+    "advices": "2 calabacines de tama\u00f1o grande. 2 puerros. 50 ml de vino blanco. Agua, un vaso de 200 ml ..1. En una olla que tenga tapadera pon un poco de aceite y sal y echa el puerro. Deja que se cocine a fuego medio removiendo de vez en cuando durante unos 5 minutos sin dejar que se dore. Si se pegan o doran las verduras, baja la temperatura del fuego y \u00e9chales un poquito de agua..2. Mientras, lava los calabacines y c\u00f3rtalos en cubitos. Agr\u00e9galos a la olla y cocina todo durante otros 10 minutos m\u00e1s, removiendo de vez en cuando..3. Sube el fuego para que est\u00e9 alto e incorpora el vino blanco y deja que se evapore el alcohol, tardar\u00e1 unos 2-3 minutos..4. A\u00f1ade un poco de sal y el agua,.5. Deja que se cocine todo junto y con la olla tapada a fuego medio durante 15-20 minutos, removiendo de vez en cuando. Aparta la olla del fuego cuando compruebes, al pinchar las verduras que est\u00e1n tiernas.",
+    "category": "verdura",
+    "img": "7_4_2020_uueamipy.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "103",
+    "title": "Galletas chocolate",
+    "ingredients": " ",
+    "advices": "Ingredientes 60 g de Chocolate NESTL\u00c9 Postres Negro, 150 g de harina, 60 g de mantequilla, 110 g de az\u00facar, 50 g de nueces, 1 huevo, 2,5 g (1\/2cucharadita) de levadura en polvo.Precalentar el horno a 180\u00ba.Batir la mantequilla ablandada con los dos tipos de az\u00facar hasta que est\u00e9 cremosa; a\u00f1adir el huevo batido, la harina y la levadura tamizadas y mezclarlo bien.Partir el chocolate en trocitos peque\u00f1os, procurando que sean de tama\u00f1o regular, y picar las nueces; agregarlo a la preparaci\u00f3n anterior y dejarla en el refrigerador durante 1 hora.Untar una placa de horno con mantequilla y, con una cuchara, formar peque\u00f1as porciones redondeadas, dejando espacio entre ellas.Cocerlas a horno suave hasta que est\u00e9n ligeramente doradas (de 10 a 15 minutos) y dejarlas enfriar. ",
+    "category": "dulce",
+    "img": "13_4_2020_gigxhqzw.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "104",
+    "title": "Berenjenas rellenas de at\u00fan y huevo",
+    "ingredients": " ",
+    "advices": "Asar las berenjenas al horno.Hervir dos huevos duros.1 lata de at\u00fan.Hacer bechamel; tres cucharadas de aceite, una cucharada grande de harina y una taza de leche.Mezclar todos los ingredientes y rellenar las berenjenas y con un poco de queso rallado gratinar al horno",
+    "category": "verdura",
+    "img": "22_5_2020_lltmwsoj.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "105",
+    "title": "Pasta",
+    "ingredients": " ",
+    "advices": "Para macarrones y h\u00e9lices la medida para 2 son tres vasos de los transparentes mediano.Tres vasos transparentes medianos equivalen a dos tazas de Londres .Con dos tazas de Londres salen tres raciones, llenar menos para que no salga tanto",
+    "category": "",
+    "img": "23_6_2020_ejxfdueu.jpg",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "106",
+    "title": "Alb\u00f3ndigas de carne en salsa",
+    "ingredients": " ",
+    "advices": "2 cebollas. 4 zanahorias. 200 ml de vino blanco. 350 ml de caldo de carne (tambi\u00e9n puedes utilizar agua y 1\/2 pastilla de caldo de carne concentrado). 1 cucharada de harina de trigo. Aceite de oliva y sal..Pela las cebollas y lava las zanahorias, y p\u00edcalas finitas. Para ello, hemos utilizado nuestra picadora manual, con la que conseguimos tenerlo todo picadito en unos segundos, \u00a1y sin llorar! Tambi\u00e9n puedes hacerlo con un cuchillo..Pon una sart\u00e9n o cacerola ancha a fuego medio con un chorrito de aceite, y cuando est\u00e9 caliente incorpora las verduras. Deja que se cocinen unos 10 minutos sin llegar a dorarse, simplemente para que queden blanditas. \u00c9chales un poco de sal..  A\u00f1ade la cucharada de harina y revu\u00e9lvelo todo bien, y cuando est\u00e9 integrada con las verduras, incorpora el vino. Deja que se evapore el alcohol durante 2-3 minutos, y entonces a\u00f1ade el caldo de carne. Cocina durante 10 minutos a fuego lento con la sart\u00e9n tapada..Tritura la salsa pas\u00e1ndola por un pasapur\u00e9s o con una trituradora, y vuelve a ponerla en la sart\u00e9n. Ahora es cuando podr\u00edas incorporar tus alb\u00f3ndigas. Deja que se cocine todo junto 10 minutos a fuego suave, para que las alb\u00f3ndigas se impregnen de todo el sabor de la salsa.",
+    "category": "carne",
+    "img": "13_9_2020_xof.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "107",
+    "title": "Cus cus de cordero",
+    "ingredients": " ",
+    "advices": "Cortar la cebolla y tomate en dados y sofreir.Limpiar y cortar el cordero y sofreir en la olla.A\u00f1adir pimienta negra, azafr\u00e1n, c\u00farcuma y jengibre picado.A\u00f1adir el sofrito anterior, dos litros de agua y una pastilla de caldonde verdura.A\u00f1adir la zanahoria en dados.Tras 20 minutos, a\u00f1adir el nabo, la calabaza y el calabac\u00edn .A\u00f1adir la canela.Cuando est\u00e9 la verdura hecha, corregir de sal y separar el.caldo para la s\u00e9mola.Llevar el caldo a ebullici\u00f3n, retiramos del fuego y a\u00f1adimos la s\u00e9mola, removiendo con tenedor de madera.Tapar 3 min con un trapo",
+    "category": "pasta",
+    "img": "24_9_2020_qakvobtv.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "108",
+    "title": "Pescadilla rebozada al horno con salsa \"tartara\"",
+    "ingredients": " ",
+    "advices": "Limpiar lomos de pescadilla.Picar almendra, nueces y ajos.Mezclar con el pan rallado y un poco de queso rallado.Rebozar bien la pescadilla en la masa por ambos lados .Precalentar horno 200 grados.Echar un chorrito de aceite por encima de cada lomo rebozado.Meter 20 min con grill.Para la salsa picar aceitunas y anchoas y mezclar con una cucharada de mostaza y bastante mahonesa para suavizar.A\u00f1adir cilantro a la salsa",
+    "category": "pescado",
+    "img": "26_9_2020_qospoc.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "109",
+    "title": "Albondigas con salsa de rabo de toro",
+    "ingredients": " ",
+    "advices": "Saltear los champi\u00f1ones laminados.A\u00f1adir a la salsa de rabo de toro.Incorporar las albondigas",
+    "category": "carne",
+    "img": "26_9_2020_hnyahtf.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "110",
+    "title": "Alb\u00f3ndigas de carne con salsa de champi\u00f1ones",
+    "ingredients": " ",
+    "advices": "Para la salsa de champi\u00f1ones:   350 gr de champi\u00f1ones 1 cebolla 3 dientes de ajo 1 cucharada de mostaza de Dijon \u00bd vaso de vino blanco \u00bd taza de caldo de carne o pollo 1 ramita de tomillo fresco Aceite de oliva Sal y pimienta.Para la salsa, lavar los champi\u00f1ones. Quitarles las partes feas y cortar en l\u00e1minas finas. Picar la cebolla y el ajo y saltear en una sart\u00e9n con 3 cucharadas de aceite de oliva.alb\u00f3ndigas en salsa de champi\u00f1ones  Cuando se doren, a\u00f1adir los champi\u00f1ones. Sin dejar de remover, dejar cocinar durante 5 minutos. Agregar una cucharada de harina, mezclando para que se dore y no le quede sabor a crudo. Incorporar el vino. Dejar que evapore el alcohol durante unos segundos. A\u00f1adir el caldo, la mostaza y salpimentar. Tapar y dejar cocinar durante 10 minutos a fuego bajo. En una cacerola colocar las alb\u00f3ndigas y cubrir con la salsa. A\u00f1adir las hojitas de tomillo. Llevar a fuego bajo durante 10 minutos con la cacerola tapada. Rectificar de sal. Servir bien caliente.",
+    "category": "carne",
+    "img": "11_10_2020_govhvn.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "111",
+    "title": "Bacalao con espinacas y pur\u00e9 de garbanzos",
+    "ingredients": " ",
+    "advices": "Ingredientes para Pat\u00e9 de garbanzos con bacalao y espinacas  200 g garbanzos  200 g migas de bacalao desalado  1 lim\u00f3n  100 g espinacas  1 cdta piment\u00f3n dulce  1 cdta comino molido  2 dientes de ajo  piment\u00f3n picante  pimienta negra  sal  aceite de oliva.Enjuaga los garbanzos. Trit\u00faralos con el zumo del lim\u00f3n, el piment\u00f3n dulce, el comino, 1 diente de ajo pelado, sal y 1 dl de aceite hasta conseguir una crema homog\u00e9nea..Si no quieres hacer el pat\u00e9 de garbanzos, se puede sustituir por humus.Lava las espinacas y esc\u00farrelas. Salt\u00e9alas 1 minuto con 2 cucharadas de aceite y salpimi\u00e9ntalas. Pela el otro ajo y p\u00e1rtelo en l\u00e1minas. A\u00f1ade 2 cucharadas de aceite a la sart\u00e9n de las espinacas, agrega el ajo y d\u00f3ralo. Incorpora el bacalao lavado y salt\u00e9alo 2 minutos..Disp\u00f3n el pat\u00e9 de garbanzos en una fuente, a\u00f1ade las espinacas y el salteado de bacalao y ajo. Espolvorea con un poco de piment\u00f3n picante, ri\u00e9galo con unas gotas de aceite y sirve..EL TRUCO: Para tomarlo fr\u00edo, ali\u00f1a el bacalao sin saltear con cebolleta, zumo de lim\u00f3n y tomate rallado.",
+    "category": "pescado",
+    "img": "11_10_2020_bfljwzd.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "112",
+    "title": "Paella de costillas y coliflor",
+    "ingredients": " ",
+    "advices": "Sofreir ajos, retirar y a\u00f1adir carne.A\u00f1adir verduras.Sofreir arroz y a\u00f1adir caldo.Caldo de pollo casero.3 de agua por 1 de arroz",
+    "category": "pasta",
+    "img": "",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "113",
+    "title": "Conejo al ajillo",
+    "ingredients": " ",
+    "advices": "Macerar con aceite, ajo y perejil, envolver en papel albal y meter en la nevera",
+    "category": "carne",
+    "img": "12_10_2020_sdfhjqkd.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "114",
+    "title": "Tortitas de coliflor",
+    "ingredients": " ",
+    "advices": "Desmenuzar la coliflor en arbolitos peque\u00f1os y meter 8-10 min en microondas en un bol.Chafar la coliflor con un tenedor.A\u00f1adir un huevo, los ajos picaditos y queso rallado y mezclar bien.Ir a\u00f1adiendo harina a la mezcla hasta que coja consistenciq.Salpimentar y freir en aceite de girasol",
+    "category": "verdura",
+    "img": "19_10_2020_yiqifo.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "115",
+    "title": "Garbanzos con chorizo",
+    "ingredients": " ",
+    "advices": "Sofreir cebolla, ajo, pimiento y zanahoria picada.A\u00f1adir patatas.A\u00f1adir garbanzos y chorizo.A\u00f1adir piment\u00f3n dulce.Se puede a\u00f1adir rabonde cerdo cocido y oreja",
+    "category": "cuchara",
+    "img": "19_10_2020_nrndblj.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "116",
+    "title": "Pollo relleno",
+    "ingredients": " ",
+    "advices": "500 gramos de carne picada.1 cebolla picada.D\u00e1tiles picados.1 caja de bacon en tiras.2 o 3 zanahorias ralladas.Queso rallado.2 huevos.Un vaso de leche o vino blanco dulce.Un poco de pan rallado.Untar de aceite el pollo y sazonar.Meter al horno con dos tazas de agua con una pastilla de  caldo de carne, un tomate y una zanahoria troceados.Poner a 180 grados +- 1h 30 minutos, al principio poner por arriba y abajo y despu\u00e9s s\u00f3lo por bajo y dar la vuelta al pollo.",
+    "category": "carne",
+    "img": "26_11_2020_lgqipdom.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "117",
+    "title": "Alubias con almejas y langostinos",
+    "ingredients": " ",
+    "advices": "Ingredientes para dos raciones; 6 langostinos, un bote de alubias grandes, la mitad de la carne de almejas del paquete congelado,un vaso de caldo de pescado , media cebolla y una zanahoria.En una sart\u00e9n, sofre\u00edr la cebolla, ajo y zanahoria.En la cazuela sofre\u00edr las cabezas de los langostinos y cuando ya est\u00e9n casi a\u00f1adir los langostinos y terminar de sofre\u00edr, a\u00f1adir un vaso peque\u00f1o de agua y dejar un rato m\u00e1s.Retirar las cabezas de langostinos.A\u00f1adir un vaso de caldo de pescado y cuando vuelva a hervir, a\u00f1adir las alubias y la carne de almeja.Para que el caldo quede espeso, triturar el sofrito junto con algunas alubias y un poco de caldo y a\u00f1adir a la cazuela",
+    "category": "cuchara",
+    "img": "23_11_2020_dbxfgeic.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "118",
+    "title": "Masa para empanadilla",
+    "ingredients": " ",
+    "advices": "275 gr de harina.1 huevo.80 ml vino blanco muy fr\u00edo.40 ml de aceite.1 pellizco de sal.Amasar y dejar reposar 15-20 minutos",
+    "category": "verdura",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "119",
+    "title": "Rape alangostado con vinagreta de pimientos",
+    "ingredients": " ",
+    "advices": "Deshuesar las colas de rape.Salpimentar, embadurnar con aceite y piment\u00f3n dulce.Meter en horno  sin cubrir.Hacer vinagreta con 1 ajo muy fino, yema de huevo, 3 pimientos piquillo, 3c vinagre manzana, 9c de aceite y sal.Al servir se puede a\u00f1adir el jugo de cabezas de gamb\u00f3n y triturado de mezcla picante",
+    "category": "pescado",
+    "img": "10_12_2020_hqkuijh.jpg",
+    "noteDani": "2",
+    "noteDolores": "SC"
+},
+{
+    "id": "120",
+    "title": "Tallarines marinera",
+    "ingredients": " ",
+    "advices": "Sofreir media cebolla y un ajo con una cayena.A\u00f1adir un poco de tomate triturado.A\u00f1adir gambas y mejillones.Salpumentar y aderezar con aceite picante",
+    "category": "pasta",
+    "img": "21_12_2020_lhsdt.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "121",
+    "title": "Bacalao a la portuguesa",
+    "ingredients": " ",
+    "advices": "Freir patatas cortadas muy finas.Retirar y sofreir cebolla en juliana y ajo muy fino.Retirar del fuego y a\u00f1adir pimenton dulce sin parar de remover.Echar vino blanco y subir fuego para reducir.Enharinar el bacalao y sellar por todos los lados.Montar la bandeja con patatas, cebolla y bacalao y poner al horno a 180\u00b0 durante 10 min",
+    "category": "pescado",
+    "img": "28_12_2020_levnuxuv.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "122",
+    "title": "Tataki de Salm\u00f3n con s\u00e9samo",
+    "ingredients": " ",
+    "advices": "A\u00f1adir 100ml de soja, el zumo de medio lim\u00f3n, jengibre cortado y r\u00e1bano picante.Dejar macerando el salmon en la nevera.Rebozar con s\u00e9samo y pasar por la sart\u00e9n a fuego muy lento para que no se haga mucho el pescado.Servir con cebollino cortado",
+    "category": "pescado",
+    "img": "31_12_2020_taanmniv.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "123",
+    "title": "Atun a la vinagreta de mostaza",
+    "ingredients": " ",
+    "advices": "Cortar el atun en dados.Cortar 1 ajo muy fino y a\u00f1adir a un cuenco con aceite y una cucharada de mostaza de dijon y pimienta.A\u00f1adir el atun mezclando bieny dejar macerando tapado en la nevera",
+    "category": "pescado",
+    "img": "",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "124",
+    "title": "Sopa castellana",
+    "ingredients": " ",
+    "advices": "Cortar en l\u00e1minas 8 dientes de ajo y sofreir en aove.Echar trozos de pan de pueblo.A\u00f1adir pimenton picante fuera del fuego y tras remover un poco a\u00f1adir 1,5 litros de agua.A\u00f1adir una pastilla de carne y otra de pollo, junto al hueso de jam\u00f3n.Cocer 15-20 min, corregir de sal y a\u00f1adir taquitos de jam\u00f3n .Para servir a\u00f1adir un huevo por raci\u00f3n ",
+    "category": "cuchara",
+    "img": "6_2_2021_hyducnss.jpg",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "125",
+    "title": "Bacalao \u00e0 br\u00e0s",
+    "ingredients": " ",
+    "advices": "Cocer el bacalao fresco 10 min en agua caliente.Cortar la patata grande tipo paja.Freir patatas en aceite de girasol.Retirar las patatas en papel absorbente.Cortar ajo y cebolla finos y sofreir.Echar bacalao en sarten de cebolla y remover 1-2 min.Echar las patatas y en fuego muy bajo el huevo, removiendo con cuidado.Decorar con perejil.y aceitunas negras",
+    "category": "pescado",
+    "img": "28_2_2021_eorqxzkm.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "126",
+    "title": "Pollo Kentucky",
+    "ingredients": " ",
+    "advices": "Sazonador de pollo.Mezclar en un bol todos los ingredientes.Poner un bol de leche,  y el del resto de ingredientes.Mojar el pollo en la leche, escurrir y pasar por el rebozado.  Para ello pondremos el trozo de pollo en el bol del rebozado y con la ayuda de una cuchara lo cubriremos por completo. Sacamos y lo ponemos en la fuente del horno. Un chorro de aceite por encima y al horno a 200 grados unos 30 minutos.",
+    "category": "carne",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "127",
+    "title": "Berenjenas con jam\u00f3n y queso",
+    "ingredients": " ",
+    "advices": "",
+    "category": "verdura",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "128",
+    "title": "Ensalada de garbanzos",
+    "ingredients": " ",
+    "advices": "Un pimiento rojo peque\u00f1o y uno verde, si no son peque\u00f1os, picar s\u00f3lo medio..Picar media cebolla y un tomate natural..Para la vinagreta,, 75 ml de aceite, 25 ml de vinagre, sal y pimienta, y un huevo duro.",
+    "category": "verdura",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "3"
+},
+{
+    "id": "129",
+    "title": "Coca de llimona",
+    "ingredients": " ",
+    "advices": "1- batir los huevos con el az\u00facar, despu\u00e9s a\u00f1adir el aceite y seguir batiendo.2- a\u00f1adir la ralladura de lim\u00f3n.3- a\u00f1adir la leche o el yogur poco a poco y seguir batiendo.4- a\u00f1adir la harina poco a poco.5- los dos sobres de gasificante.6- espolvorear por encima con az\u00facar y canela.7- al horno 180\u00b0 25 minutos",
+    "category": "dulce",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "130",
+    "title": "Ensalada de patatas",
+    "ingredients": " ",
+    "advices": "Hervir 3 patatas con piel 25 minutos.2 latas de at\u00fan.1 lata de aceitunas negras en rodajas.2 huevos hervidos.Para la vinagreta: 3 de aceite por 1 de vinagre, 1 cucharada de mostaza y 1 de miel.",
+    "category": "verdura",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "131",
+    "title": "Arroz con chipirones",
+    "ingredients": " ",
+    "advices": "Hidratar 2 pimientos choriceros con agua caliente 1hora..Sofreir las cabezas de los gambones con agua de los pimientos.Sofreri un ajo laminado.A\u00f1adir media cebolla picada.A\u00f1adir el marisco.Triturar los pimientos con una cucharada sopera de tomate triturado frito.Sofreir arroz y a\u00f1adir el caldo",
+    "category": "pasta",
+    "img": "",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "132",
+    "title": "Solomillo Wellington",
+    "ingredients": " ",
+    "advices": "Sellar el solomillo salpimentado con fuego fuerte hasta que este dorado.Hacer un poco el solomillo para eviatr que se quede muy crudo.Picar media cebolla y 8-10 champi\u00f1ones y sofreir.Hacer con antelaci\u00f3n para que est\u00e9 frio antes de montar el hojaldre.En la receta es con casta\u00f1as, pero le hemos puesto nueces picadas .Extender el pat\u00e9 de pimienta pir el hojaldre, luego el sofrito \"duxelle\" y por \u00faltimo envolver el solomillo en jam\u00f3n serrano .Horno 180 30 min.Acompa\u00f1ar con patatas mini y salsa pimienta",
+    "category": "carne",
+    "img": "25_7_2021_nenbdg.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "133",
+    "title": "Vinagretas",
+    "ingredients": " ",
+    "advices": "Salpic\u00f3n de pulpo: 5 cucharadas de aceite, 3 de vinagre de manzana y 1 de vinagre de m\u00f2dena. 1 cucharadita de piment\u00f3n picante y 1 de piment\u00f3n dulce..Ensalada de lentejas: 10 de aceite, 8 de vinagre de manzana y 1 cucharadita de mostaza.Ensalada de patatas: 6 de aceite, 3 de vinagre, 1 de mostaza y 1 de miel",
+    "category": "",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "134",
+    "title": "Ensalada de aguacate",
+    "ingredients": " ",
+    "advices": "Ali\u00f1o: 5 cucharadas de aceite, 2 de soja y 10 gotas de tabasco",
+    "category": "verdura",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "135",
+    "title": "Ensalada de lentejas",
+    "ingredients": " ",
+    "advices": "Para la vinagreta: 10 cucharadas de aceite, 8 cucharadas de vinagre de manzana y 1 cucharadita de mostaza",
+    "category": "verdura",
+    "img": "3_9_2021_fikobtoh.jpg",
+    "noteDani": "SC",
+    "noteDolores": "3"
+},
+{
+    "id": "136",
+    "title": "Pollo Tandoori masala",
+    "ingredients": " ",
+    "advices": "Marinar el pollo sin piel con zumo de medio lim\u00f3n y sal.Echar las especias tikka masala en cantidad, a\u00f1adiendo un poco m\u00e1s de piment\u00f3n dulce.A\u00f1adir 2-3 cucharadas grandes de yogur griego natural y embadurnar bien.Dejar macerar unas horas.Sofreur media cebolla en juliana con mantequilla derretida.A\u00f1adir el pollo y cocer a fuego medio unos 15-20 min.A\u00f1adir dos cucharadas de tomate frito casero y dos de tomate natural con aceite y sal.Remover bien y dejar cocer a fuego lento hasta ver el punto",
+    "category": "carne",
+    "img": "",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "137",
+    "title": "Chalotas en salsa",
+    "ingredients": " ",
+    "advices": "Poner 3 cucharadas de aceite y 1 nuez de mantequilla al fuego.Cuando est\u00e9 fundida, poner las chalotas y dorarlas.Cuando ya est\u00e9n doradas, a\u00f1adir 1 vaso grande de agua y uno peque\u00f1o de vinagre de m\u00f2dena. Y s\u00f1adir 1 cucharada grande de miel.A\u00f1adir un pellizco de sal.Cocinar a fuego medio 15 minutos, el l\u00edquido debe cubrir un poco las chalotas.Ver que se va evaporando y concentrando, si no,subir un poco el fuego para que espese.Se puede a\u00f1adir una cucharada de postre de maicena para que espese.Sugerencia: se puede acompa\u00f1ar de pur\u00e9 de patatas y unos lomos de bacalao",
+    "category": "verdura",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "SC"
+},
+{
+    "id": "138",
+    "title": "Solomillo relleno",
+    "ingredients": " ",
+    "advices": "Abrir el solomillo como una hoja.Laminar todo con bacon, jam\u00f3n, ciruelas, nueces trituradas, pi\u00f1ones y mermelada de tomate.Enrollar el solomillo y atar con hilo..Regar con vino blanco y tinto.Poner patatas en badeja y meter al horno.Untar con mantequilla la bandeja, a\u00f1adir solomillo y verdura.Para que no se seque mucho se puede ir a\u00f1adiendo agua o caldo de carne",
+    "category": "carne",
+    "img": "28_11_2021_ekcjyok.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "139",
+    "title": "Boquerones en adobo",
+    "ingredients": " ",
+    "advices": "Majar en el mortero el ajo, a\u00f1adir todas las especias y mezclar con vinagre y medio vaso de agua, llenando todo el mortero",
+    "category": "pescado",
+    "img": "",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "140",
+    "title": "Arroz con langostinos y esp\u00e1rragos",
+    "ingredients": " ",
+    "advices": "1 taza de arroz basmati (2 raciones).8 langostinos cocidos.Medio manojo de esp\u00e1rragos trigueros.2 tazas y media de agua.1 ajo.5 cucharadas soperas de soja.Calentar el aceite y sofreir los esp\u00e1rragos cortados en trozos hasta que est\u00e9n dorados.  Sacar y reservar.Pelar los langostinos y cortar en 4 trozos cada uno. Sofreir 2-3 minutos. .Hacer el arroz basmati, 1 taza de arroz y 2,5 de agua. Sal ",
+    "category": "pasta",
+    "img": "30_12_2021_jucgqfy.jpg",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "141",
+    "title": "Masa empanadillas",
+    "ingredients": " ",
+    "advices": "125 ml de aceite.125 ml de cerveza.Una pizca de sal.Harina, la que admita.Echar primero el l\u00edquido y despu\u00e9s la harina",
+    "category": "",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "142",
+    "title": "Bacalao al horno con alioli",
+    "ingredients": " ",
+    "advices": "Cortar la patata en rodajas finas.Engrasar la fuente delnhorno y poner la patata con sal, aceite y ajo molido.Poner un hievo, aceite de girasol y aove, ajo, sal y chorro de lim\u00f3n para hacer el alioli.Poner dos dedos de alioli sobre los lonos.Precalentar el horno a 220 y piner las patatas 10 min.Meter los lomos a 190 durante 12 min solo abajo.Poner el grill 5 min",
+    "category": "pescado",
+    "img": "5_2_2022_ziycndxr.jpg",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "143",
+    "title": "Garbanzos con jam\u00f3n y fideos",
+    "ingredients": " ",
+    "advices": "https:\/\/www.hogarmania.com\/cocina\/recetas\/legumbres\/guiso-garbanzos-jamon-karlos-arguinano.html.Para el caldo: 1 cebolla 2 ajos aplastados 1 hueso de jam\u00f3n 1 hoja de laurel y hervir al menos media hora.Sofreir 1 o 2 ajos, media cebolla, y cuando est\u00e9 a\u00f1adir los tacos de jam\u00f3n.A\u00f1adir un poco de vino blanco y subir el fuego para que se evapore el alcohol.Un poco de tomate frito y los fideos, sofre\u00edr.A\u00f1adir el doble de caldo que de fideos, si es el fideo gordo, el triple",
+    "category": "cuchara",
+    "img": "",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "144",
+    "title": "Ensalada \"Dolores\"",
+    "ingredients": " ",
+    "advices": "Hacer la salsa con base de aceite, cucharita de mostaza, buen chorro de miel, un poquito de vinagre bals\u00e1mico y una cucharita de salsa kebap blanca.Triturar un pu\u00f1adonde mix picante",
+    "category": "verdura",
+    "img": "",
+    "noteDani": "4",
+    "noteDolores": "SC"
+},
+{
+    "id": "145",
+    "title": "Bonito encebollado",
+    "ingredients": " ",
+    "advices": "Dividir cada rodaja en 4 trozos limpiando espina y piel.Cortar cebollas en dados y ajos en l\u00e1minas y sofreir 15 min en fuego lento.A\u00f1adir laurel, pimenton dulce y or\u00e9gano y mover.A\u00f1adir en seguida 250 ml de vino blanco.Llevar a ebullicion 3 min y a\u00f1adir 150ml de agua durante 5 min.A\u00f1adir el bonito 10 min",
+    "category": "pescado",
+    "img": "",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "146",
+    "title": "Pollo con pasta de curry massala",
+    "ingredients": " ",
+    "advices": "Poner aceite de girasol a calentar y 3 cucharadas de la pasta con un poco del agua de coco para disolverla.Echar el pollo y 150 ml de agua y tapar 5 min.Cortar patata y zanahoria en trozos peque\u00f1os y echar a la olla con el resto del agua de coco.Tras 5 min destapar y echar la cebolla cortada en tiras, 3 cucharadas de soja, azucar de ca\u00f1a y laurel.A\u00f1adir cacahuetes, ajo en polvo, bsstante cilantro seco y subir el fuego para reducir la salsa.Corregir de sal. ",
+    "category": "carne",
+    "img": "",
+    "noteDani": "3",
+    "noteDolores": "SC"
+},
+{
+    "id": "147",
+    "title": "Coliflor con bechamel",
+    "ingredients": " ",
+    "advices": "La coliflor debe hervir 6 minutos desde que vuelve a hervir el agua.Sofreir las salchichas .Bechamel: 2 cucharadas grandes de harina, leche, sal, pimienta, nuez moscada.Poner al horno y gratinar con queso durante 20 minutos ",
+    "category": "verdura",
+    "img": "20_1_2023_ynrvrhwf.jpg",
+    "noteDani": "SC",
+    "noteDolores": "5"
+},
+{
+    "id": "148",
+    "title": "Calamares con salsa americana y arroz blanco ",
+    "ingredients": " ",
+    "advices": "Picar ajo y cebolla y sofreir junto a dos guindillas..Cuando ya est\u00e9, a\u00f1adir el tomate y un poco m\u00e1s tarde el brandy y subir el fuego para que se evapore el alcohol .A\u00f1adir pimienta al gusto .Cuando ya est\u00e9 todo, a\u00f1adimos los calamares troceados y cocinar durante unos 15 minutos .Hacer el arroz blanco ",
+    "category": "pasta",
+    "img": "",
+    "noteDani": "SC",
+    "noteDolores": "4"
+},
+{
+    "id": "149",
+    "title": "Cachopo",
+    "ingredients": " ",
+    "advices": "Calentar aceite con 2 ajos y los pimientos de piquillo.Poner papel film y aplastar los filetes con un cazo.Cubrir un filete con jamon y queso; tambien se puede a\u00f1adir queso azul y los pimientos.Pasar por harina, huevo y pan rallado crujiente.Freir a fuego medio",
+    "category": "carne",
+    "img": "3_6_2023_wzukpx.jpg",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "150",
+    "title": "Arroz secreto con setas",
+    "ingredients": " ",
+    "advices": "Sofreir el secreto.Retirar y sofreir los ajos tiernos con las setas.A\u00f1adir unnpoco de pimenton y remover.A\u00f1adirnun poco de tomate triturado, la salsa de pimiento choricero.Sofreir el arroz.A\u00f1adir 3 tazas de caldo de poloo por cada una de arroz",
+    "category": "pasta",
+    "img": "",
+    "noteDani": "5",
+    "noteDolores": "SC"
+},
+{
+    "id": "151",
+    "title": "Estofado de a\u00f1ojo",
+    "ingredients": " ",
+    "advices": "Enharinar la carne y sofreir.Reitrar la carne y sofreir cebolla picada y ajo.A\u00f1adir los pimientos rojo, verde y amarillo en tiras dutmrante 5 min.A\u00f1adir medio bote de tomate triturado con un poco de agua, una pastilla de carne y 2 cucharadas de pimiento choricero.A\u00f1adir tomillo y romero, y azucar para el tomate.A\u00f1adir la carne a fuego medio durante 10 min.A\u00f1adir las patatas durante 25 min",
+    "category": "cuchara",
+    "img": "",
+    "noteDani": "3",
+    "noteDolores": "SC"
+}]

@@ -1,0 +1,19 @@
+<ng-container *ngIf="receta; else loading">
+  <h2>{{ receta.title }}</h2>
+  <img *ngIf="receta?.img" [src]="'assets/img/' + receta.img" [alt]="receta.title" />
+  <p><strong>Categoría:</strong> {{ receta.category }}</p>
+
+  <h3>Ingredientes:</h3>
+  <ul>
+    <li *ngFor="let ingrediente of receta.ingredients">{{ ingrediente }}</li>
+  </ul>
+  <p><strong>Consejos:</strong> {{ receta.advices }}</p>
+  <br />
+
+  <button [routerLink]="['/']">Volver a la lista</button>
+</ng-container>
+
+<ng-template #loading>
+  <p>Cargando receta...</p>
+</ng-template>
+
