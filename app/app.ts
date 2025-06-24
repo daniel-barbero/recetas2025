@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { MenuHamburguesaComponent } from './menu-hamburguesa/menu-hamburguesa';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, MenuHamburguesaComponent],
   templateUrl: './app.html',
   styleUrls: ['./app.scss']
 })

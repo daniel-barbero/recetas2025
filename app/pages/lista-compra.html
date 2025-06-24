@@ -1,0 +1,34 @@
+<div class="lista-compra-container">
+  <h2>Lista de la Compra</h2>
+
+  <form (submit)="agregarItem(); $event.preventDefault();">
+    <input
+      type="text"
+      placeholder="Añadir producto..."
+      [(ngModel)]="nuevaItem"
+      name="nuevaItem"
+      autocomplete="off"
+    />
+    <button type="submit">Agregar</button>
+  </form>
+
+  <ul>
+    <li *ngFor="let item of lista; let i = index">
+      {{ item }}
+      <button (click)="eliminarItem(i)">✖</button>
+    </li>
+  </ul>
+
+  <button (click)="limpiarLista()" [disabled]="lista.length === 0">Limpiar lista</button>
+
+  <hr />
+
+  <button (click)="exportar()" [disabled]="lista.length === 0">Exportar lista</button>
+
+  <input
+    type="file"
+    accept="application/json"
+    (change)="onFileSelected($event)"
+    style="margin-top: 10px;"
+  />
+</div>

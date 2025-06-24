@@ -1,0 +1,17 @@
+<!-- receta-edicion.html -->
+<form (ngSubmit)="guardarCambios()">
+  <label>Título:</label>
+  <input type="text" [(ngModel)]="receta.title" name="title">
+
+  <label>Categoría:</label>
+  <input type="text" [(ngModel)]="receta.category" name="category">
+
+  <label>Ingredientes:</label>
+  <textarea [(ngModel)]="receta.ingredients" name="ingredients"></textarea>
+
+  <label>Consejos:</label>
+  <textarea [(ngModel)]="receta.advices" name="advices"></textarea>
+
+  <button type="submit">Guardar cambios</button>
+</form>
+

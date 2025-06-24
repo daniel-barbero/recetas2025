@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
 import { Preferences } from '@capacitor/preferences';
 
 export interface Receta {
@@ -21,29 +20,15 @@ export class RecetasService {
 
   constructor(private http: HttpClient) {}
 
-  getRecetas(): Observable<Receta[]> {
-    return this.http.get<Receta[]>(this.url);
-  }
-  /*async getRecetas(): Promise<Receta[]> {
+  async getRecetas(): Promise<Receta[]> {
     return await this.leerJson();
-  }*/
+  }
 
-  getRecetaById(id: number): Observable<Receta | undefined> {
-    return new Observable((subscriber) => {
-      this.getRecetas().subscribe({
-        next: (recetas) => {
-          const receta = recetas.find((r) => Number(r.id) === id);
-          subscriber.next(receta);
-          subscriber.complete();
-        },
-        error: (err) => subscriber.error(err),
-      });
-    });
-  }
- /*async getRecetaById(id: number): Promise<Receta | undefined> {
+  async getRecetaById(id: number): Promise<Receta | undefined> {
     const recetas = await this.getRecetas();
-    return recetas.find((r) => r.id === id);
+    return recetas.find((r) => Number(r.id) === id);
   }
+
 
   async leerJson(): Promise<any>  {
     const { value } = await Preferences.get({ key: 'recetas' });
@@ -64,7 +49,7 @@ export class RecetasService {
 
   async actualizarReceta(receta: Receta) {
     const recetas = await this.leerJson();
-    const indice = recetas.findIndex((r) => r.id === receta.id);
+    const indice = recetas.findIndex((r: Receta) => r.id === receta.id);
     if (indice !== -1) {
       recetas[indice] = receta;
       await this.escribirJson(recetas);
@@ -79,12 +64,13 @@ export class RecetasService {
 
   async eliminarReceta(id: number) {
     const recetas = await this.leerJson();
-    const indice = recetas.findIndex((r) => r.id === id);
+    const indice = recetas.findIndex((r: Receta) => r.id === id);
     if (indice !== -1) {
       recetas.splice(indice, 1);
       await this.escribirJson(recetas);
     }
-  }*/
+  }
+
 
 }
 

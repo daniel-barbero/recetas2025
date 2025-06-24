@@ -9,7 +9,7 @@
   </ul>
   <p><strong>Consejos:</strong> {{ receta.advices }}</p>
   <br />
-
+  <button [routerLink]="['/recetas', receta.id, 'editar']">Editar receta</button>
   <button [routerLink]="['/']">Volver a la lista</button>
 </ng-container>
 

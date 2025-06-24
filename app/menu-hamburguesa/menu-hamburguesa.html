@@ -1,0 +1,11 @@
+<button class="menu-toggle" (click)="toggleMenu()">
+  ☰
+</button>
+
+  <nav class="menu" [class.abierto]="menuAbierto">
+    <ul>
+      <li><a routerLink="" (click)="toggleMenu()">Recetas</a></li>
+      <li><a routerLink="/lista-compra" (click)="toggleMenu()">Lista compra</a></li>
+      <li><a routerLink="/backup" (click)="toggleMenu()">Backup</a></li>
+    </ul>
+  </nav>

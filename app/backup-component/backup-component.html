@@ -1,0 +1,37 @@
+<div class="backup-container">
+  <h2>Gestor de Backups</h2>
+
+  <label for="backup-select" class="backup-label">Selecciona tipo de respaldo</label>
+  <select id="backup-select" [(ngModel)]="selectedBackup" class="backup-select">
+    <option *ngFor="let b of backups" [ngValue]="b">{{ b.label }}</option>
+  </select>
+
+  <div class="actions">
+    <button
+      [disabled]="!selectedBackup"
+      (click)="exportar()"
+      class="btn btn-export"
+      title="Exportar datos"
+    >
+      📤 Exportar
+    </button>
+
+    <button
+      [disabled]="!selectedBackup"
+      (click)="importar()"
+      class="btn btn-import"
+      title="Importar datos"
+    >
+      📥 Importar
+    </button>
+
+    <button
+      [disabled]="!selectedBackup"
+      (click)="compartir()"
+      class="btn btn-share"
+      title="Compartir archivo"
+    >
+      📲 Compartir
+    </button>
+  </div>
+</div>

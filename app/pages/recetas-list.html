@@ -16,9 +16,17 @@
     {{ categoria }}
   </button>
 </div>
-
+<!--
+<button (click)="exportarDatos()">Exportar datos</button>
+<button (click)="compartirArchivo()">Compartir archivo</button>
+<button (click)="importarDatos()">Importar archivo</button>
+-->
 <ul>
   <li *ngFor="let receta of recetasFiltradas">
-    <a [routerLink]="['/receta', receta.id]">{{ receta.title }}</a>
+    <a [routerLink]="['/receta', receta.id]">
+      <img *ngIf="receta?.img" [src]="'assets/img/' + receta.img" [alt]="receta.title" />
+      <strong>{{ receta.category }}</strong>
+      {{ receta.title }}
+    </a>
   </li>
 </ul>
