@@ -1,4 +1,4 @@
-<h2>Lista de Recetas</h2>
+<h2>Lista de Recetas v0.3</h2>
 
 <input
   type="text"
@@ -16,11 +16,7 @@
     {{ categoria }}
   </button>
 </div>
-<!--
-<button (click)="exportarDatos()">Exportar datos</button>
-<button (click)="compartirArchivo()">Compartir archivo</button>
-<button (click)="importarDatos()">Importar archivo</button>
--->
+
 <ul>
   <li *ngFor="let receta of recetasFiltradas">
     <a [routerLink]="['/receta', receta.id]">

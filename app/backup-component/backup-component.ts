@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-backup',
   templateUrl: './backup-component.html',
-  styleUrl: './backup-component.scss',
+  styleUrls: ['./backup-component.scss'], // Corregido a styleUrls
   standalone: true,
   imports: [CommonModule, FormsModule]
 })
@@ -22,9 +22,12 @@ export class BackupMultipleComponent {
   constructor(private backupService: BackupService) {}
 
   async exportar() {
-    if (!this.selectedBackup) return alert('Selecciona un respaldo');
+    if (!this.selectedBackup || !this.backups.includes(this.selectedBackup)) {
+      return alert('Selecciona un respaldo válido');
+    }
     try {
       await this.backupService.exportarDatos(this.selectedBackup.key, this.selectedBackup.fileName);
+      // Considera utilizar un componente de notificación más avanzado
       alert(`${this.selectedBackup.label} exportado correctamente`);
     } catch (e: any) {
       alert(e.message || 'Error exportando');
@@ -32,9 +35,11 @@ export class BackupMultipleComponent {
   }
 
   async importar() {
-    if (!this.selectedBackup) return alert('Selecciona un respaldo');
+    if (!this.selectedBackup || !this.backups.includes(this.selectedBackup)) {
+      return alert('Selecciona un respaldo válido');
+    }
     try {
-      await this.backupService.importarDatos(this.selectedBackup.key, this.selectedBackup.fileName);
+      await this.backupService.importarDatos(this.selectedBackup.key);
       alert(`${this.selectedBackup.label} importado correctamente`);
     } catch (e: any) {
       alert(e.message || 'Error importando');
@@ -42,7 +47,9 @@ export class BackupMultipleComponent {
   }
 
   async compartir() {
-    if (!this.selectedBackup) return alert('Selecciona un respaldo');
+    if (!this.selectedBackup || !this.backups.includes(this.selectedBackup)) {
+      return alert('Selecciona un respaldo válido');
+    }
     try {
       await this.backupService.compartirArchivo(this.selectedBackup.fileName);
     } catch (e: any) {
@@ -50,4 +57,3 @@ export class BackupMultipleComponent {
     }
   }
 }
-

@@ -20,15 +20,3 @@
   </ul>
 
   <button (click)="limpiarLista()" [disabled]="lista.length === 0">Limpiar lista</button>
-
-  <hr />
-
-  <button (click)="exportar()" [disabled]="lista.length === 0">Exportar lista</button>
-
-  <input
-    type="file"
-    accept="application/json"
-    (change)="onFileSelected($event)"
-    style="margin-top: 10px;"
-  />
-</div>
